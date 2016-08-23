@@ -26,6 +26,8 @@ A curated list of awesome [gamification](https://en.m.wikipedia.org/wiki/Gamific
 - [Codecademy](https://www.codecademy.com/) - Learn to code interactively, for free.
 - [CodeCombat](https://codecombat.com/) - The most engaging game for learning programming.
 - [CodinGame](https://www.codingame.com/) - CodinGame is a challenge-based training platform for programmers where you can play with the hottest programming topics.
+- [CSS Diner](https://flukeout.github.io/) - It's a little game to help you learn CSS selectors.
+- [Flexbox Defense](http://www.flexboxdefense.com/) - Unlike other tower defense games, you must position your towers using CSS!
 - [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox.
 - [Flexbox with Webflow](https://www.flexboxgame.com/) - Master flexbox in 28 interactive levels—without writing code.
 - [Mimo](https://getmimo.com/) - Learn how to code on mobile.
