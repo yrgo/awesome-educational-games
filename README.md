@@ -7,11 +7,16 @@ A curated list of awesome [gamification](https://en.m.wikipedia.org/wiki/Gamific
 ##### Table of Contents
 
 - [Editors](#editors)
+- [Languages](#languages)
 - [Programming](#programming)
 
 ## Editors
 
 - [VIM Adventures](http://vim-adventures.com/) - Learning VIM while playing a game.
+
+## Editors
+
+- [Duolingo](https://www.duolingo.com/) - Learn Spanish, French and other languages for free.
 
 ## Programming
 
