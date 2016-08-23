@@ -1,5 +1,7 @@
 # Awesome Gamification
 
+![gamification](https://cloud.githubusercontent.com/assets/499192/17886605/e129a13a-6922-11e6-92ce-524854cf472f.png)
+
 A curated list of awesome [gamification](https://en.m.wikipedia.org/wiki/Gamification) to learn editors, languages, etc.
 
 ##### Table of Contents
