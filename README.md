@@ -12,7 +12,8 @@ A curated list of awesome [gamification](https://en.m.wikipedia.org/wiki/Gamific
 
 ## Editors
 
-- [VIM Adventures](http://vim-adventures.com/) - Learning VIM while playing a game.
+- [Open Vim](http://www.openvim.com/) - Interactive Vim tutorial.
+- [Vim Adventures](http://vim-adventures.com/) - Learning Vim while playing a game.
 
 ## Languages
 
