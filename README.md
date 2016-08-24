@@ -14,6 +14,7 @@ A curated list of awesome [gamification](https://en.m.wikipedia.org/wiki/Gamific
 
 - [Open Vim](http://www.openvim.com/) - Interactive Vim tutorial.
 - [Vim Adventures](http://vim-adventures.com/) - Learning Vim while playing a game.
+- [Vim Genius](http://vimgenius.com/) - Increase your speed and improve your muscle memory with Vim Genius.
 
 ## Languages
 
