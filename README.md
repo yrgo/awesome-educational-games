@@ -32,6 +32,7 @@ A curated list of awesome [gamification](https://en.m.wikipedia.org/wiki/Gamific
 - [Flexbox Defense](http://www.flexboxdefense.com/) - Unlike other tower defense games, you must position your towers using CSS!
 - [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox.
 - [Flexbox with Webflow](https://www.flexboxgame.com/) - Master flexbox in 28 interactive levels—without writing code.
+- [Free Code Camp](https://www.freecodecamp.com) - An open source community that helps you learn to code.
 - [Mimo](https://getmimo.com/) - Learn how to code on mobile.
 - [Treehouse](https://teamtreehouse.com/) - Learn web design, coding & much more.
 - [Try Git](https://try.github.io/levels/1/challenges/1) - Learn how to use Git with Code School’s interactive course, Try Git.
