@@ -38,6 +38,7 @@ A curated list of awesome [gamification](https://en.m.wikipedia.org/wiki/Gamific
 - [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Learn serious code on your iPad. In a seriously fun way.
 - [Treehouse](https://teamtreehouse.com/) - Learn web design, coding & much more.
 - [Try Git](https://try.github.io/levels/1/challenges/1) - Learn how to use Git with Code School’s interactive course, Try Git.
+- [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives.
 
 ## License
 
