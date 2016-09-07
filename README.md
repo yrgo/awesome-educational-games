@@ -35,6 +35,7 @@ A curated list of awesome [gamification](https://en.m.wikipedia.org/wiki/Gamific
 - [Flexbox with Webflow](https://www.flexboxgame.com/) - Master flexbox in 28 interactive levels—without writing code.
 - [Free Code Camp](https://www.freecodecamp.com) - An open source community that helps you learn to code.
 - [Mimo](https://getmimo.com/) - Learn how to code on mobile.
+- [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Learn serious code on your iPad. In a seriously fun way.
 - [Treehouse](https://teamtreehouse.com/) - Learn web design, coding & much more.
 - [Try Git](https://try.github.io/levels/1/challenges/1) - Learn how to use Git with Code School’s interactive course, Try Git.
 
