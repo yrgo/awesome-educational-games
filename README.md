@@ -1,4 +1,4 @@
-# Awesome Gamification
+# Awesome Gamification [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![gamification](https://cloud.githubusercontent.com/assets/499192/17886605/e129a13a-6922-11e6-92ce-524854cf472f.png)
 
