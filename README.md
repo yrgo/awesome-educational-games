@@ -1,6 +1,6 @@
-# Awesome Gamification [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Gamification [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/vinkla/awesome-gamification/master.svg?style=flat)](https://travis-ci.org/vinkla/awesome-gamification)
 
-[<img src="https://cloud.githubusercontent.com/assets/499192/18659925/ed7e6262-7f0d-11e6-8e8e-b53b87158210.png" align="right" alt="awesome gamification" width="330">](https://en.m.wikipedia.org/wiki/Gamification_of_learning)
+[<img src="https://cloud.githubusercontent.com/assets/499192/18659925/ed7e6262-7f0d-11e6-8e8e-b53b87158210.png" align="right" alt="awesome gamification" width="280">](https://en.m.wikipedia.org/wiki/Gamification_of_learning)
 
 > A curated list of awesome [gamification](https://en.m.wikipedia.org/wiki/Gamification_of_learning) to learn editors, languages, programming, etc.
 
