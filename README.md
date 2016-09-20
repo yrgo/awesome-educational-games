@@ -1,8 +1,12 @@
 # Awesome Gamification [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![gamification](https://cloud.githubusercontent.com/assets/499192/17886605/e129a13a-6922-11e6-92ce-524854cf472f.png)
+[<img src="https://cloud.githubusercontent.com/assets/499192/18659925/ed7e6262-7f0d-11e6-8e8e-b53b87158210.png" align="right" alt="awesome gamification" width="330">](https://en.m.wikipedia.org/wiki/Gamification_of_learning)
 
-A curated list of awesome [gamification](https://en.m.wikipedia.org/wiki/Gamification_of_learning) to learn editors, languages, programming, etc.
+> A curated list of awesome [gamification](https://en.m.wikipedia.org/wiki/Gamification_of_learning) to learn editors, languages, programming, etc.
+
+*Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
+
+Like `awesome-gamification`? Reach out to me and say *hi* on [Twitter](https://twitter.com/vnkla)! 👋
 
 ##### Table of Contents
 
