@@ -8,7 +8,7 @@
 
 Like `awesome-gamification`? Reach out to me and say *hi* on [Twitter](https://twitter.com/vnkla)! 👋
 
-##### Contents
+#### Contents
 
 - [Design](#design)
 - [Editors](#editors)
