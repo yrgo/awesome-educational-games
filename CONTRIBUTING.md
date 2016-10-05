@@ -10,9 +10,7 @@ Please ensure your pull request adheres to the following guidelines:
 - New categories, or improvements to the existing categorization are welcome.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Start the description with a capital and end the sentence (including links) with a full stop/period.
-- Suggested packages should be tested and documented.
-- The pull request should have a useful title and include a link to the package and why it should be included.
-- Use the following format: `[package](link) - Description.`
+- Use the following format: `[tool name](link) - Description.`
 
 Thank you for your suggestions!
 
