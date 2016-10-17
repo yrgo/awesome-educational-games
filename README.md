@@ -18,6 +18,7 @@ Like `awesome-gamification`? Reach out to me and say *hi* on [Twitter](https://t
 ## Design
 
 - [Pixactly](http://pixact.ly/) - A pixels test to quiz your knowledge.
+- [Kern Type](http://type.method.ac/) - A game that helps you to learn kerning.
 
 ## Editors
 
