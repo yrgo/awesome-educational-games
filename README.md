@@ -8,7 +8,7 @@
 
 Like `awesome-edutainment`? Reach out to me and say *hi* on [Twitter](https://twitter.com/vnkla)! 👋
 
-> [Games](https://en.m.wikipedia.org/wiki/Educational_entertainment#Games) fulfill a number of [educational purposes](https://en.m.wikipedia.org/wiki/Educational_game). Some games may be explicitly designed with education in mind, while others may have incidental or secondary educational value. All types of games, including board, card, and video games, may be used in an educational environment. Educational games are designed to teach people about certain subjects, expand concepts, reinforce development, understand an historical event or culture, or assist them in learning a skill as they play - [Wikipedia](https://en.m.wikipedia.org/wiki/Educational_entertainment#Games)
+> [Educational games](https://en.m.wikipedia.org/wiki/Educational_game) are designed to teach people about certain subjects, expand concepts, reinforce development, understand an historical event or culture, or assist them in learning a skill as they play - [Wikipedia](https://en.m.wikipedia.org/wiki/Educational_entertainment#Games)
 
 ## Contents
 
