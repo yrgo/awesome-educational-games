@@ -1,12 +1,14 @@
-# Awesome Gamification [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Edutainment [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://cloud.githubusercontent.com/assets/499192/18659925/ed7e6262-7f0d-11e6-8e8e-b53b87158210.png" align="right" alt="awesome gamification" width="150">](https://en.m.wikipedia.org/wiki/Gamification_of_learning)
+[<img src="https://cloud.githubusercontent.com/assets/499192/18659925/ed7e6262-7f0d-11e6-8e8e-b53b87158210.png" align="right" alt="Awesome Edutainment" width="150">](https://en.m.wikipedia.org/wiki/Educational_entertainment#Games)
 
-> A curated list of awesome [gamification](https://en.m.wikipedia.org/wiki/Gamification_of_learning) to learn editors, languages, programming, etc.
+> A curated list of awesome [edutainment](https://en.m.wikipedia.org/wiki/Educational_entertainment#Games) to learn editors, languages, programming, etc.
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
-Like `awesome-gamification`? Reach out to me and say *hi* on [Twitter](https://twitter.com/vnkla)! 👋
+Like `awesome-edutainment`? Reach out to me and say *hi* on [Twitter](https://twitter.com/vnkla)! 👋
+
+> [Games](https://en.m.wikipedia.org/wiki/Educational_entertainment#Games) fulfill a number of [educational purposes](https://en.m.wikipedia.org/wiki/Educational_game). Some games may be explicitly designed with education in mind, while others may have incidental or secondary educational value. All types of games, including board, card, and video games, may be used in an educational environment. Educational games are designed to teach people about certain subjects, expand concepts, reinforce development, understand an historical event or culture, or assist them in learning a skill as they play - [Wikipedia](https://en.m.wikipedia.org/wiki/Educational_entertainment#Games)
 
 ## Contents
 
