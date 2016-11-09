@@ -49,8 +49,8 @@ Like `awesome-educational-games`? Reach out to me and say *hi* on [Twitter](http
 ## Math & Computer Science
 
 - [Alligator Eggs!](http://worrydream.com/#!/AlligatorEggs) - A pen-and-paper game for children that teaches lambda calculus.
-- [Euclid: The Game](http://euclidthegame.com) - Learn geometry interactively.
 - [CS Unplugged](http://csunplugged.org) - A collection of classroom activities that teach computer science concepts without using computers.
+- [Euclid: The Game](http://euclidthegame.com) - Learn geometry interactively.
 - [Finitris](http://www.postcrashgames.com/finitris/) - See what goes into running a regular expression.
 
 ## Programming
