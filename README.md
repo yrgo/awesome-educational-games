@@ -45,6 +45,7 @@ Like `awesome-gamification`? Reach out to me and say *hi* on [Twitter](https://t
 - [Flexbox with Webflow](https://www.flexboxgame.com/) - Learn and master flexbox in 28 interactive levels—without writing code.
 - [Free Code Camp](https://www.freecodecamp.com) - An open source community that helps you learn to code.
 - [Mimo](https://getmimo.com/) - Learn how to become a developer on mobile.
+- [RegexOne](https://regexone.com/lesson) - Learn Regular Expressions with simple, interactive exercises.
 - [ReturnTrue](https://alf.nu/ReturnTrue) - A game were you learn about booleans, return true to win.
 - [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
 - [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Learn to code on your iPad in a seriously fun way.
