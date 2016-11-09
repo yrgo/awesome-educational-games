@@ -13,10 +13,10 @@ Like `awesome-educational-games`? Reach out to me and say *hi* on [Twitter](http
 ## Contents
 
 - [Articles](#articles)
-- [Art & Design](#design)
+- [Art & Design](#art--design)
 - [Editors](#editors)
 - [Languages](#languages)
-- [Math & Computer Science](#math)
+- [Math & Computer Science](#math--computer-science)
 - [Programming](#programming)
 
 ## Articles
@@ -46,7 +46,7 @@ Like `awesome-educational-games`? Reach out to me and say *hi* on [Twitter](http
 
 - [Duolingo](https://www.duolingo.com/) - Learn Spanish, French and other languages for free.
 
-## Math and Computer Science
+## Math & Computer Science
 
 - [Alligator Eggs!](http://worrydream.com/#!/AlligatorEggs) - A pen-and-paper game for children that teaches lambda calculus.
 - [Euclid: The Game](http://euclidthegame.com) - Learn geometry interactively.
