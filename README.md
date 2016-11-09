@@ -6,9 +6,9 @@
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
-Like `awesome-edutainment`? Reach out to me and say *hi* on [Twitter](https://twitter.com/vnkla)! 👋
-
 > [Educational games](https://en.m.wikipedia.org/wiki/Educational_game) are designed to teach people about certain subjects, expand concepts, reinforce development, understand an historical event or culture, or assist them in learning a skill as they play - [Wikipedia](https://en.m.wikipedia.org/wiki/Educational_entertainment#Games)
+
+Like `awesome-edutainment`? Reach out to me and say *hi* on [Twitter](https://twitter.com/vnkla)! 👋
 
 ## Contents
 
