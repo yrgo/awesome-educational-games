@@ -10,7 +10,7 @@
 
 Like `awesome-educational-games`? Reach out to me and say *hi* on [Twitter](https://twitter.com/vnkla)! 👋
 
-## Contents
+### Contents
 
 - [Art & Design](#art--design)
 - [Articles](#articles)
