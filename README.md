@@ -12,18 +12,13 @@ Like `awesome-educational-games`? Reach out to me and say *hi* on [Twitter](http
 
 ## Contents
 
-- [Articles](#articles)
 - [Art & Design](#art--design)
+- [Articles](#articles)
 - [Editors](#editors)
 - [Languages](#languages)
 - [Math & Computer Science](#math--computer-science)
+- [Music](#music)
 - [Programming](#programming)
-
-## Articles
-
-- [Educational Video Games Can Boost Motivation to Learn](https://www.nyu.edu/about/news-publications/news/2013/november/educational-video-games-can-boost-motivation-to-learn-nyu-cuny-study-shows-.html) - An article by New York University.
-- [Fact or Fiction?: Video Games Are the Future of Education](https://www.nyu.edu/about/news-publications/news/2013/november/educational-video-games-can-boost-motivation-to-learn-nyu-cuny-study-shows-.html) - An article by Scientific American.
-- [Five Reasons to Use Games in the Classroom](http://www.educationworld.com/a_curr/reasons-to-play-games-in-the-classroom.shtml) - An article by Education World.
 
 ## Art & Design
 
@@ -33,8 +28,13 @@ Like `awesome-educational-games`? Reach out to me and say *hi* on [Twitter](http
   - [Color](http://color.method.ac/) - Color
   - [Shape Type](http://shape.method.ac/) - Letter Shaping
   - [Kern Type](http://type.method.ac/) - Kerning
-- [Pianu](https://pianu.com) - Learn how to play the piano in-browser.
 - [Pixactly](http://pixact.ly/) - A pixels test to quiz your knowledge.
+
+## Articles
+
+- [Educational Video Games Can Boost Motivation to Learn](https://www.nyu.edu/about/news-publications/news/2013/november/educational-video-games-can-boost-motivation-to-learn-nyu-cuny-study-shows-.html) - An article by New York University.
+- [Fact or Fiction?: Video Games Are the Future of Education](https://www.nyu.edu/about/news-publications/news/2013/november/educational-video-games-can-boost-motivation-to-learn-nyu-cuny-study-shows-.html) - An article by Scientific American.
+- [Five Reasons to Use Games in the Classroom](http://www.educationworld.com/a_curr/reasons-to-play-games-in-the-classroom.shtml) - An article by Education World.
 
 ## Editors
 
@@ -52,6 +52,10 @@ Like `awesome-educational-games`? Reach out to me and say *hi* on [Twitter](http
 - [CS Unplugged](http://csunplugged.org) - A collection of classroom activities that teach computer science concepts without using computers.
 - [Euclid: The Game](http://euclidthegame.com) - Learn geometry interactively.
 - [Finitris](http://www.postcrashgames.com/finitris/) - See what goes into running a regular expression.
+
+## Music
+
+- [Pianu](https://pianu.com) - Learn how to play the piano in-browser.
 
 ## Programming
 
