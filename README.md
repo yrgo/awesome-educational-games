@@ -8,7 +8,7 @@
 
 > [Educational games](https://en.m.wikipedia.org/wiki/Educational_game) are designed to teach people about certain subjects, expand concepts, reinforce development, understand an historical event or culture, or assist them in learning a skill as they play - [Wikipedia](https://en.m.wikipedia.org/wiki/Educational_game)
 
-Like `awesome-educational-games`? Reach out to me and say *hi* on [Twitter](https://twitter.com/vnkla)! 👋
+Like `awesome-educational-games`? Reach out to me and say *hi* on [Twitter](https://twitter.com/vinkla)! 👋
 
 #### Contents
 
