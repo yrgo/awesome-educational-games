@@ -55,6 +55,7 @@ Like `awesome-educational-games`? Reach out to me and say *hi* on [Twitter](http
 
 ## Music
 
+- [Learning Music](https://learningmusic.ableton.com) - Explore the fundamentals of music via Ableton's interactive website.
 - [Pianu](https://pianu.com) - Learn how to play the piano in-browser.
 
 ## Programming
