@@ -12,6 +12,7 @@
 
 - [Art & Design](#art--design)
 - [Articles](#articles)
+- [CSS](#css)
 - [Editors](#editors)
 - [Languages](#languages)
 - [Math & Computer Science](#math--computer-science)
@@ -33,6 +34,14 @@
 - [Educational Video Games Can Boost Motivation to Learn](https://www.nyu.edu/about/news-publications/news/2013/november/educational-video-games-can-boost-motivation-to-learn-nyu-cuny-study-shows-.html) - An article by New York University.
 - [Fact or Fiction?: Video Games Are the Future of Education](https://www.nyu.edu/about/news-publications/news/2013/november/educational-video-games-can-boost-motivation-to-learn-nyu-cuny-study-shows-.html) - An article by Scientific American.
 - [Five Reasons to Use Games in the Classroom](http://www.educationworld.com/a_curr/reasons-to-play-games-in-the-classroom.shtml) - An article by Education World.
+
+## CSS
+
+- [CSS Diner](https://flukeout.github.io/) - It's a little game to help you learn CSS selectors.
+- [CSS Grid Garden](http://cssgridgarden.com/) - A game for learning CSS grid layout.
+- [Flexbox Defense](http://www.flexboxdefense.com/) - Unlike other tower defense games, you must position your towers using CSS!
+- [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox.
+- [Flexbox with Webflow](https://www.flexboxgame.com/) - Learn and master flexbox in 28 interactive levels—without writing code.
 
 ## Editors
 
@@ -65,14 +74,9 @@
 - [Codecademy](https://www.codecademy.com/) - Learn to code interactively, for free.
 - [CodeCombat](https://codecombat.com/) - The most engaging coding game for learning programming.
 - [CodinGame](https://www.codingame.com/) - A challenge-based training platform where you can play with the hottest programming topics.
-- [CSS Diner](https://flukeout.github.io/) - It's a little game to help you learn CSS selectors.
-- [CSS Grid Garden](http://cssgridgarden.com/) - A game for learning CSS grid layout.
 - [Cube Composer](http://david-peter.de/cube-composer/) - A puzzle game inspired by functional programming.
 - [Deadlock Empire](https://deadlockempire.github.io/) - Solve puzzles with concurrency.
 - [Expressions](http://expressions.wingtiplabs.com) - Learn how to use regular expressions for just $5.
-- [Flexbox Defense](http://www.flexboxdefense.com/) - Unlike other tower defense games, you must position your towers using CSS!
-- [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox.
-- [Flexbox with Webflow](https://www.flexboxgame.com/) - Learn and master flexbox in 28 interactive levels—without writing code.
 - [Free Code Camp](https://www.freecodecamp.com) - An open source community that helps you learn to code.
 - [Learn Git Branching](http://learngitbranching.js.org/) - Interactive Git tutorial that emphasizes branching.
 - [Mimo](https://getmimo.com/) - Learn how to become a developer on mobile.
@@ -81,7 +85,6 @@
 - [ReturnTrue](https://alf.nu/ReturnTrue) - A game were you learn about booleans, return true to win.
 - [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
 - [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Learn to code on your iPad in a seriously fun way.
-- [Treehouse](https://teamtreehouse.com/) - Learn web design, coding & much more.
 - [Try Git](https://try.github.io/levels/1/challenges/1) - Learn how to use Git with Code School’s interactive course.
 - [Untrusted](https://alexnisnevich.github.io/untrusted/) - Learn while playing a JavaScript adventure game.
 - [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives.
@@ -92,4 +95,4 @@
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Yrgo](http://yrgo.se) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Yrgo](https://yrgo.se) has waived all copyright and related or neighboring rights to this work.
