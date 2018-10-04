@@ -22,6 +22,7 @@
 ## Art & Design
 
 - [Canon Explains Exposure](http://www.canonoutsideofauto.ca/) - Learn how to give your photographs just the right amount of light.
+- [Font Memory Game](https://betterwebtype.com/font-memory-game) - Recognizing different styles of fonts is one of the most challenging parts of typography.
 - [Method of Action](http://method.ac/) - A collection of games that teach you design principles.
   - [The Bézier Game](http://bezier.method.ac/) - Bézier Curves
   - [Color](http://color.method.ac/) - Color
