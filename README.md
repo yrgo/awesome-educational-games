@@ -60,6 +60,7 @@
 - [CS Unplugged](http://csunplugged.org) - A collection of classroom activities that teach computer science concepts without using computers.
 - [Euclid: The Game](http://euclidthegame.com) - Learn geometry interactively.
 - [Finitris](http://www.postcrashgames.com/finitris/) - See what goes into running a regular expression.
+- [Guess The Correlation](http://guessthecorrelation.com/) - Try to guess how correlated the two variables in a scatter plot are.
 
 ## Music
 
