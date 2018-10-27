@@ -23,18 +23,18 @@
 
 - [Canon Explains Exposure](http://www.canonoutsideofauto.ca/) - Learn how to give your photographs just the right amount of light.
 - [Font Memory Game](https://betterwebtype.com/font-memory-game) - Recognizing different styles of fonts is one of the most challenging parts of typography.
-- [Method of Action](http://method.ac/) - A collection of games that teach you design principles.
-  - [The Bézier Game](http://bezier.method.ac/) - Bézier Curves
-  - [Color](http://color.method.ac/) - Color
-  - [Shape Type](http://shape.method.ac/) - Letter Shaping
-  - [Kern Type](http://type.method.ac/) - Kerning
+- [Method of Action](https://method.ac/) - A collection of games that teach you design principles.
+  - [The Bézier Game](https://bezier.method.ac/) - Bézier Curves
+  - [Color](https://color.method.ac/) - Color
+  - [Shape Type](https://shape.method.ac/) - Letter Shaping
+  - [Kern Type](https://type.method.ac/) - Kerning
 - [Pixactly](http://pixact.ly/) - A pixels test to quiz your knowledge.
 
 ## Articles
 
 - [Educational Video Games Can Boost Motivation to Learn](https://www.nyu.edu/about/news-publications/news/2013/november/educational-video-games-can-boost-motivation-to-learn-nyu-cuny-study-shows-.html) - An article by New York University.
 - [Fact or Fiction?: Video Games Are the Future of Education](https://www.nyu.edu/about/news-publications/news/2013/november/educational-video-games-can-boost-motivation-to-learn-nyu-cuny-study-shows-.html) - An article by Scientific American.
-- [Five Reasons to Use Games in the Classroom](http://www.educationworld.com/a_curr/reasons-to-play-games-in-the-classroom.shtml) - An article by Education World.
+- [Five Reasons to Use Games in the Classroom](https://www.educationworld.com/a_curr/reasons-to-play-games-in-the-classroom.shtml) - An article by Education World.
 
 ## CSS
 
@@ -46,8 +46,8 @@
 
 ## Editors
 
-- [Open Vim](http://www.openvim.com/) - Interactive Vim tutorial.
-- [Vim Adventures](http://vim-adventures.com/) - Learning Vim while playing a game.
+- [Open Vim](https://www.openvim.com/) - Interactive Vim tutorial.
+- [Vim Adventures](https://vim-adventures.com/) - Learning Vim while playing a game.
 - [Vim Genius](http://vimgenius.com/) - Increase your speed and improve your muscle memory with Vim Genius.
 
 ## Languages
@@ -57,8 +57,7 @@
 ## Math & Computer Science
 
 - [Alligator Eggs!](http://worrydream.com/#!/AlligatorEggs) - A pen-and-paper game for children that teaches lambda calculus.
-- [CS Unplugged](http://csunplugged.org) - A collection of classroom activities that teach computer science concepts without using computers.
-- [Euclid: The Game](http://euclidthegame.com) - Learn geometry interactively.
+- [CS Unplugged](https://csunplugged.org) - A collection of classroom activities that teach computer science concepts without using computers.
 - [Finitris](http://www.postcrashgames.com/finitris/) - See what goes into running a regular expression.
 - [Guess The Correlation](http://guessthecorrelation.com/) - Try to guess how correlated the two variables in a scatter plot are.
 
@@ -71,23 +70,21 @@
 
 - [BOX-256](http://box-256.com/) - Program a fictional CPU with assembly to output graphics.
 - [Code Avengers](https://www.codeavengers.com/) - Learn to build websites, apps and games in a fun and effective way.
-- [Code School](https://www.codeschool.com/) - Learn to code in the comfort of your browser.
+- [Code School](https://www.pluralsight.com/codeschool ) - Learn to code in the comfort of your browser.
 - [Code.org](https://code.org/) - Every student in every school should have the opportunity to learn computer science.
 - [Codecademy](https://www.codecademy.com/) - Learn to code interactively, for free.
 - [CodeCombat](https://codecombat.com/) - The most engaging coding game for learning programming.
-- [CodinGame](https://www.codingame.com/) - A challenge-based training platform where you can play with the hottest programming topics.
-- [Cube Composer](http://david-peter.de/cube-composer/) - A puzzle game inspired by functional programming.
+- [CodinGame](https://www.codingame.com/start) - A challenge-based training platform where you can play with the hottest programming topics.
+- [Cube Composer](https://david-peter.de/cube-composer/) - A puzzle game inspired by functional programming.
 - [Deadlock Empire](https://deadlockempire.github.io/) - Solve puzzles with concurrency.
-- [Expressions](http://expressions.wingtiplabs.com) - Learn how to use regular expressions for just $5.
-- [Free Code Camp](https://www.freecodecamp.com) - An open source community that helps you learn to code.
-- [Learn Git Branching](http://learngitbranching.js.org/) - Interactive Git tutorial that emphasizes branching.
+- [Free Code Camp](https://www.freecodecamp.com/) - An open source community that helps you learn to code.
+- [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Git tutorial that emphasizes branching.
 - [Mimo](https://getmimo.com/) - Learn how to become a developer on mobile.
 - [Programming Games Wiki](http://programminggames.org/) - A long-standing catalogue of programming games through the years.
 - [RegexOne](https://regexone.com/lesson/introduction_abcs) - Learn Regular Expressions with simple, interactive exercises.
 - [ReturnTrue](https://alf.nu/ReturnTrue) - A game were you learn about booleans, return true to win.
 - [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
-- [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Learn to code on your iPad in a seriously fun way.
-- [Try Git](https://try.github.io/levels/1/challenges/1) - Learn how to use Git with Code School’s interactive course.
+- [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn to code on your iPad in a seriously fun way.
 - [Untrusted](https://alexnisnevich.github.io/untrusted/) - Learn while playing a JavaScript adventure game.
 - [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives.
 - [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
