@@ -57,7 +57,7 @@
 ## Math & Computer Science
 
 - [Alligator Eggs!](http://worrydream.com/#!/AlligatorEggs) - A pen-and-paper game for children that teaches lambda calculus.
-- [CS Unplugged](https://csunplugged.org) - A collection of classroom activities that teach computer science concepts without using computers.
+- [CS Unplugged](https://csunplugged.org/en) - A collection of classroom activities that teach computer science concepts without using computers.
 - [Finitris](http://www.postcrashgames.com/finitris/) - See what goes into running a regular expression.
 - [Guess The Correlation](http://guessthecorrelation.com/) - Try to guess how correlated the two variables in a scatter plot are.
 
@@ -77,7 +77,7 @@
 - [CodinGame](https://www.codingame.com/start) - A challenge-based training platform where you can play with the hottest programming topics.
 - [Cube Composer](https://david-peter.de/cube-composer/) - A puzzle game inspired by functional programming.
 - [Deadlock Empire](https://deadlockempire.github.io/) - Solve puzzles with concurrency.
-- [Free Code Camp](https://www.freecodecamp.com/) - An open source community that helps you learn to code.
+- [Free Code Camp](https://www.freecodecamp.org/) - An open source community that helps you learn to code.
 - [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Git tutorial that emphasizes branching.
 - [Mimo](https://getmimo.com/) - Learn how to become a developer on mobile.
 - [Programming Games Wiki](http://programminggames.org/) - A long-standing catalogue of programming games through the years.
