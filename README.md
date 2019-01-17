@@ -69,6 +69,7 @@
 ## Programming
 
 - [BOX-256](http://box-256.com/) - Program a fictional CPU with assembly to output graphics.
+- [Clips the Game](https://md5crypt.github.io/clipsgame/) - A demanding logic game based on the clips rule engine.
 - [Code Avengers](https://www.codeavengers.com/) - Learn to build websites, apps and games in a fun and effective way.
 - [Code School](https://www.pluralsight.com/codeschool ) - Learn to code in the comfort of your browser.
 - [Code.org](https://code.org/) - Every student in every school should have the opportunity to learn computer science.
