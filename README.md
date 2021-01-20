@@ -93,9 +93,3 @@
 - [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives.
 - [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
 - [XSS game](https://xss-game.appspot.com) - A game about tricking people into running code in their browsers.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Yrgo](https://yrgo.se) has waived all copyright and related or neighboring rights to this work.
