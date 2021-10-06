@@ -54,6 +54,7 @@
 
 ## Languages
 
+- [Drops](https://languagedrops.com/) - Learn useful words and phrases in a languge of your choosing, with fun gameplay.
 - [Duolingo](https://www.duolingo.com/) - Learn Spanish, French and other languages for free.
 
 ## Math & Computer Science
