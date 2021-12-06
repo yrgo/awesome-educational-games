@@ -72,6 +72,7 @@
 
 ## Programming
 
+- [7 billion humans](http://tomorrowcorporation.com/7billionhumans) - A puzzle game inspired by multithreaded assembler programming.
 - [BOX-256](http://box-256.com/) - Program a fictional CPU with assembly to output graphics.
 - [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl) - Learn Linux commands by playing a simple text adventure .
 - [Clips the Game](https://md5crypt.github.io/clipsgame/) - A demanding logic game based on the clips rule engine.
@@ -84,14 +85,17 @@
 - [Cube Composer](https://david-peter.de/cube-composer/) - A puzzle game inspired by functional programming.
 - [Deadlock Empire](https://deadlockempire.github.io/) - Solve puzzles with concurrency.
 - [Free Code Camp](https://www.freecodecamp.org/) - An open source community that helps you learn to code.
+- [Human Resource Machine](http://tomorrowcorporation.com/humanresourcemachine) - A puzzle game inspired by assembler programming.
 - [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Git tutorial that emphasizes branching.
 - [Mimo](https://getmimo.com/) - Learn how to become a developer on mobile.
 - [Programming Games Wiki](http://programminggames.org/) - A long-standing catalogue of programming games through the years.
 - [RegexOne](https://regexone.com/lesson/introduction_abcs) - Learn Regular Expressions with simple, interactive exercises.
 - [ReturnTrue](https://alf.nu/ReturnTrue) - A game were you learn about booleans, return true to win.
 - [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
+- [Shenzhen I/O](https://www.zachtronics.com/shenzhen-io/) - Learn electronic PCB design and assembly basics puzzle game.
 - [SQL Murder Mystery](https://mystery.knightlab.com/) - Solve a crime while practicing database skills.
 - [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn to code on your iPad in a seriously fun way.
+- [TIS-100](https://www.zachtronics.com/tis-100/) A parallel assembler puzzle game.
 - [Untrusted](https://alexnisnevich.github.io/untrusted/) - Learn while playing a JavaScript adventure game.
 - [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives.
 - [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
