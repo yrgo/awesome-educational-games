@@ -92,6 +92,7 @@
 - [Programming Games Wiki](http://programminggames.org/) - A long-standing catalogue of programming games through the years.
 - [RegexOne](https://regexone.com/lesson/introduction_abcs) - Learn Regular Expressions with simple, interactive exercises.
 - [ReturnTrue](https://alf.nu/ReturnTrue) - A game were you learn about booleans, return true to win.
+- [RxJS fruits](https://www.rxjs-fruits.com/subscribe) - A reactive programming (RxJS) game.
 - [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
 - [Shenzhen I/O](https://www.zachtronics.com/shenzhen-io/) - Learn electronic PCB design and assembly basics puzzle game.
 - [SQL Murder Mystery](https://mystery.knightlab.com/) - Solve a crime while practicing database skills.
