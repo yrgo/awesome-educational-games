@@ -93,6 +93,7 @@
 - [ReturnTrue](https://alf.nu/ReturnTrue) - A game were you learn about booleans, return true to win.
 - [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
 - [Shenzhen I/O](https://www.zachtronics.com/shenzhen-io/) - Learn electronic PCB design and assembly basics puzzle game.
+- [Serviceworkies](https://mastery.games/serviceworkies) - Learn web service workers.
 - [SQL Murder Mystery](https://mystery.knightlab.com/) - Solve a crime while practicing database skills.
 - [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn to code on your iPad in a seriously fun way.
 - [TIS-100](https://www.zachtronics.com/tis-100/) A parallel assembler puzzle game.
