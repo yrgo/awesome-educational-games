@@ -96,3 +96,7 @@
 - [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives.
 - [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
 - [XSS game](https://xss-game.appspot.com) - A game about tricking people into running code in their browsers.
+ 
+## Cybersecurity
+
+- [ThreatGEN: Red & Blue](https://store.steampowered.com/app/994670/ThreatGEN_Red_vs_Blue) - Cybersecurity simulation (turn-based) strategy game, based on real-world cybersecurity! Play as the hackers (red team) or the cyber defenders (blue team) against the computer A.I. or go head-to-head against a friend over the internet.
