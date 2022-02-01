@@ -80,6 +80,7 @@
 - [Code.org](https://code.org/) - Every student in every school should have the opportunity to learn computer science.
 - [Codecademy](https://www.codecademy.com/) - Learn to code interactively, for free.
 - [CodeCombat](https://codecombat.com/) - The most engaging coding game for learning programming.
+- [Coding Mystery](https://codingmystery.com) - Learn through escape-room inspired mysteries full of coding puzzles and programming challenges.
 - [CodinGame](https://www.codingame.com/start) - A challenge-based training platform where you can play with the hottest programming topics.
 - [Cube Composer](https://david-peter.de/cube-composer/) - A puzzle game inspired by functional programming.
 - [Deadlock Empire](https://deadlockempire.github.io/) - Solve puzzles with concurrency.
