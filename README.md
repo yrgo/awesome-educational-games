@@ -84,6 +84,7 @@
 - [Cube Composer](https://david-peter.de/cube-composer/) - A puzzle game inspired by functional programming.
 - [Deadlock Empire](https://deadlockempire.github.io/) - Solve puzzles with concurrency.
 - [Free Code Camp](https://www.freecodecamp.org/) - An open source community that helps you learn to code.
+- [Lambda Spellcrafting Academy](https://www.bittwiddlegames.com/lambda-spellcrafting-academy] - Learn basic programming, data structures, and algorithms with a visual programming language.
 - [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Git tutorial that emphasizes branching.
 - [Mimo](https://getmimo.com/) - Learn how to become a developer on mobile.
 - [Programming Games Wiki](http://programminggames.org/) - A long-standing catalogue of programming games through the years.
