@@ -68,6 +68,7 @@
 
 - [Learning Music](https://learningmusic.ableton.com) - Explore the fundamentals of music via Ableton's interactive website.
 - [Learning Synths](https://learningsynths.ableton.com/) - Learn the basics of using synthesizers (or synths).
+- [mfp](https://mfp-piano.com/) - Learn how to play the piano with your midi controller online.
 - [Pianu](https://pianu.com) - Learn how to play the piano in-browser.
 
 ## Programming
