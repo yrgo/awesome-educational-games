@@ -88,6 +88,7 @@
 - [Mimo](https://getmimo.com/) - Learn how to become a developer on mobile.
 - [Programming Games Wiki](http://programminggames.org/) - A long-standing catalogue of programming games through the years.
 - [RegexOne](https://regexone.com/lesson/introduction_abcs) - Learn Regular Expressions with simple, interactive exercises.
+- [RegexpGarden](https://regexp-garden.madewith.fun/) - A game for learning regular expressions 
 - [ReturnTrue](https://alf.nu/ReturnTrue) - A game were you learn about booleans, return true to win.
 - [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
 - [SQL Murder Mystery](https://mystery.knightlab.com/) - Solve a crime while practicing database skills.
