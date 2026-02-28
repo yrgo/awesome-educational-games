@@ -12,6 +12,7 @@
 
 - [Art & Design](#art--design)
 - [Articles](#articles)
+- [Career Development](#career-development)
 - [CSS](#css)
 - [Editors](#editors)
 - [Languages](#languages)
@@ -37,6 +38,10 @@
 - [Educational Video Games Can Boost Motivation to Learn](https://www.nyu.edu/about/news-publications/news/2013/november/educational-video-games-can-boost-motivation-to-learn-nyu-cuny-study-shows-.html) - An article by New York University.
 - [Fact or Fiction?: Video Games Are the Future of Education](https://www.nyu.edu/about/news-publications/news/2013/november/educational-video-games-can-boost-motivation-to-learn-nyu-cuny-study-shows-.html) - An article by Scientific American.
 - [Five Reasons to Use Games in the Classroom](https://www.educationworld.com/a_curr/reasons-to-play-games-in-the-classroom.shtml) - An article by Education World.
+
+## Career Development
+
+- [Test RIASEC Orientation](https://www.annuairequaliopi.fr/test-orientation/) - A gamified RIASEC career assessment that helps individuals discover professional orientations aligned with their skills, interests, and personality traits.
 
 ## CSS
 
