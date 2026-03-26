@@ -18,6 +18,7 @@
 - [Math & Computer Science](#math--computer-science)
 - [Music](#music)
 - [Programming](#programming)
+- [Puzzles & Brain Training](#puzzles--brain-training)
 
 ## Art & Design
 
@@ -69,6 +70,13 @@
 - [Learning Music](https://learningmusic.ableton.com) - Explore the fundamentals of music via Ableton's interactive website.
 - [Learning Synths](https://learningsynths.ableton.com/) - Learn the basics of using synthesizers (or synths).
 - [Pianu](https://pianu.com) - Learn how to play the piano in-browser.
+
+## Puzzles & Brain Training
+
+- [Crossword Puzzle Maker](https://jigsawmake.com/crossword-puzzle-maker) - Create custom crossword puzzles to build vocabulary and spelling skills.
+- [Jigsaw Puzzle Maker](https://jigsawmake.com/photo-puzzle-maker) - Turn any image into a jigsaw puzzle that trains spatial reasoning.
+- [Sudoku Puzzle Maker](https://jigsawmake.com/sudoku-puzzle-maker) - Generate sudoku puzzles to develop logical thinking and number skills.
+- [Word Search Maker](https://jigsawmake.com/word-search-maker) - Create word search puzzles for vocabulary building and pattern recognition.
 
 ## Programming
 
