@@ -14,6 +14,7 @@
 - [Articles](#articles)
 - [CSS](#css)
 - [Editors](#editors)
+- [Geography](#geography)
 - [Languages](#languages)
 - [Math & Computer Science](#math--computer-science)
 - [Music](#music)
@@ -51,6 +52,11 @@
 - [Open Vim](https://www.openvim.com/) - Interactive Vim tutorial.
 - [Vim Adventures](https://vim-adventures.com/) - Learning Vim while playing a game.
 - [Vim Genius](http://vimgenius.com/) - Increase your speed and improve your muscle memory with Vim Genius.
+
+## Geography
+
+- [Kids World Chase](https://www.kidsworldchase.net) - Weekly geography adventure for children aged 8–13. Solve riddles, explore the world on Google Maps, and learn geography facts.
+- [World Chase](https://www.worldchase.net) - Competitive weekly geography challenge. Solve cryptic riddles to find real-world locations and race to the global leaderboard.
 
 ## Languages
 
