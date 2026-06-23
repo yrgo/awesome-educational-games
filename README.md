@@ -56,6 +56,8 @@
 
 - [Drops](https://languagedrops.com/) - Learn useful words and phrases in a languge of your choosing, with fun gameplay.
 - [Duolingo](https://www.duolingo.com/) - Learn Spanish, French and other languages for free.
+- [Mandarin Flashcards (HSK 1–3)](https://ordinarymantrying.com/tools/mandarin-flashcards/) - Browser-based flashcard game for learning Mandarin Chinese. Covers 400 words across HSK1-3 vocabulary levels. Tap any character for pinyin, meaning, and example. No app install.
+- [Legendary Life Simulators](https://ordinarymantrying.com/tools/) - Interactive historical decision games. Play as Mandela, Curie, Jobs, Musk and 6 others — make their real decisions blind, then see what they actually chose and why.
 
 ## Math & Computer Science
 
