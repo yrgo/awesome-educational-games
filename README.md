@@ -56,6 +56,7 @@
 
 - [Drops](https://languagedrops.com/) - Learn useful words and phrases in a languge of your choosing, with fun gameplay.
 - [Duolingo](https://www.duolingo.com/) - Learn Spanish, French and other languages for free.
+- [Mandarin Chinese Flashcards](https://ordinarymantrying.com/tools/mandarin-flashcards.html) - Free browser flashcards for HSK1–3 Chinese vocabulary (400+ words). Spaced repetition, story reader, offline capable. No account needed.
 
 ## Math & Computer Science
 
