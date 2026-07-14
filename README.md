@@ -61,6 +61,7 @@
 
 - [Alligator Eggs!](http://worrydream.com/#!/AlligatorEggs) - A pen-and-paper game for children that teaches lambda calculus.
 - [CS Unplugged](https://csunplugged.org/en/) - A collection of classroom activities that teach computer science concepts without using computers.
+- [digiwleea](https://digiwleea.wleeaf.dev/) - Build a working 8-bit CPU from single transistors in a gamified, level-based course.
 - [Finitris](http://www.postcrashgames.com/finitris/) - See what goes into running a regular expression.
 - [Guess The Correlation](http://guessthecorrelation.com/) - Try to guess how correlated the two variables in a scatter plot are.
 
