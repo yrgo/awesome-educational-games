@@ -63,6 +63,7 @@
 - [CS Unplugged](https://csunplugged.org/en/) - A collection of classroom activities that teach computer science concepts without using computers.
 - [Finitris](http://www.postcrashgames.com/finitris/) - See what goes into running a regular expression.
 - [Guess The Correlation](http://guessthecorrelation.com/) - Try to guess how correlated the two variables in a scatter plot are.
+- [Mehrtakt-Abenteuer](https://github.com/GGalya1/riscv-architecture-educational-game) - An educational game for learning RISC-V computer architecture and multi-cycle processor concepts.
 
 ## Music
 
