@@ -14,6 +14,7 @@
 - [Articles](#articles)
 - [CSS](#css)
 - [Editors](#editors)
+- [Geography](#geography)
 - [Languages](#languages)
 - [Math & Computer Science](#math--computer-science)
 - [Music](#music)
@@ -51,6 +52,10 @@
 - [Open Vim](https://www.openvim.com/) - Interactive Vim tutorial.
 - [Vim Adventures](https://vim-adventures.com/) - Learning Vim while playing a game.
 - [Vim Genius](http://vimgenius.com/) - Increase your speed and improve your muscle memory with Vim Genius.
+
+## Geography
+
+- [World Flag Map](https://worldflagmap.com/games/daily/) - Learn national flags, country outlines, and geographic positions through two shared daily challenges.
 
 ## Languages
 
