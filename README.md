@@ -87,6 +87,7 @@
 - [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Git tutorial that emphasizes branching.
 - [Mimo](https://getmimo.com/) - Learn how to become a developer on mobile.
 - [Programming Games Wiki](http://programminggames.org/) - A long-standing catalogue of programming games through the years.
+- [Regex Hunter](https://regexhunter.com/) - A daily regex puzzle: catch every target and spare every decoy, in as few characters as you can.
 - [RegexOne](https://regexone.com/lesson/introduction_abcs) - Learn Regular Expressions with simple, interactive exercises.
 - [ReturnTrue](https://alf.nu/ReturnTrue) - A game were you learn about booleans, return true to win.
 - [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
