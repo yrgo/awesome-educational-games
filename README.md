@@ -96,3 +96,4 @@
 - [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives.
 - [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
 - [XSS game](https://xss-game.appspot.com) - A game about tricking people into running code in their browsers.
+- [TheCodeTale](https://www.thecodetale.com) - Interactive story-driven coding adventures teaching visual block programming, Python, AI, and web development in the browser.
