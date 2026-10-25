@@ -63,6 +63,7 @@
 - [CS Unplugged](https://csunplugged.org/en/) - A collection of classroom activities that teach computer science concepts without using computers.
 - [Finitris](http://www.postcrashgames.com/finitris/) - See what goes into running a regular expression.
 - [Guess The Correlation](http://guessthecorrelation.com/) - Try to guess how correlated the two variables in a scatter plot are.
+- [Scivra](https://scivra.com/) - Interactive 3D science lab simulations for high school (physics, chemistry, biology, Earth and environmental science). Free to try in the browser.
 
 ## Music
 
