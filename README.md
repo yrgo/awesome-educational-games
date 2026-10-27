@@ -45,6 +45,7 @@
 - [Flexbox Defense](http://www.flexboxdefense.com/) - Unlike other tower defense games, you must position your towers using CSS!
 - [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox.
 - [Flexbox with Webflow](https://www.flexboxgame.com/) - Learn and master flexbox in 28 interactive levels—without writing code.
+- [Flexbox Zombies](https://mastery.games/flexboxzombies/) - Learn CSS flexbox by aiming a crossbow at waves of zombies.
 
 ## Editors
 
@@ -63,6 +64,8 @@
 - [CS Unplugged](https://csunplugged.org/en/) - A collection of classroom activities that teach computer science concepts without using computers.
 - [Finitris](http://www.postcrashgames.com/finitris/) - See what goes into running a regular expression.
 - [Guess The Correlation](http://guessthecorrelation.com/) - Try to guess how correlated the two variables in a scatter plot are.
+- [NandGame](https://nandgame.com/) - Build a working computer step by step, starting from a single NAND gate.
+- [Regex Crossword](https://regexcrossword.com/) - Crossword puzzles where every clue is a regular expression.
 
 ## Music
 
@@ -74,6 +77,7 @@
 
 - [BOX-256](http://box-256.com/) - Program a fictional CPU with assembly to output graphics.
 - [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl) - Learn Linux commands by playing a simple text adventure .
+- [Breakpoint](https://breakpoint.games/) - A hand-reviewed directory of programming games, coding challenges, bot arenas and CTFs, with links checked every 12 hours.
 - [Clips the Game](https://md5crypt.github.io/clipsgame/) - A demanding logic game based on the clips rule engine.
 - [Code Avengers](https://www.codeavengers.com/) - Learn to build websites, apps and games in a fun and effective way.
 - [Code School](https://www.pluralsight.com/codeschool ) - Learn to code in the comfort of your browser.
@@ -83,9 +87,11 @@
 - [CodinGame](https://www.codingame.com/start) - A challenge-based training platform where you can play with the hottest programming topics.
 - [Cube Composer](https://david-peter.de/cube-composer/) - A puzzle game inspired by functional programming.
 - [Deadlock Empire](https://deadlockempire.github.io/) - Solve puzzles with concurrency.
+- [Elevator Saga](http://play.elevatorsaga.com/) - Write JavaScript that moves elevators and gets passengers to their floors on time.
 - [Free Code Camp](https://www.freecodecamp.org/) - An open source community that helps you learn to code.
 - [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Git tutorial that emphasizes branching.
 - [Mimo](https://getmimo.com/) - Learn how to become a developer on mobile.
+- [Oh My Git!](https://ohmygit.org/) - Open source game for learning Git, with a live view of the repository as you play.
 - [Programming Games Wiki](http://programminggames.org/) - A long-standing catalogue of programming games through the years.
 - [RegexOne](https://regexone.com/lesson/introduction_abcs) - Learn Regular Expressions with simple, interactive exercises.
 - [ReturnTrue](https://alf.nu/ReturnTrue) - A game were you learn about booleans, return true to win.
