@@ -56,6 +56,8 @@
 
 - [Drops](https://languagedrops.com/) - Learn useful words and phrases in a languge of your choosing, with fun gameplay.
 - [Duolingo](https://www.duolingo.com/) - Learn Spanish, French and other languages for free.
+- [Word Grid Game](https://www.wordgridgame.net) - Make printable word search, crossword, and anagram puzzles in your browser.
+
 
 ## Math & Computer Science
 
