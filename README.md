@@ -73,7 +73,8 @@
 ## Programming
 
 - [BOX-256](http://box-256.com/) - Program a fictional CPU with assembly to output graphics.
-- [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl) - Learn Linux commands by playing a simple text adventure .
+- [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl) - Learn Linux commands by playing a simple text adventure.
+- [Bugbound](https://www.bugbound.app) - Pixel-art adventure: every door is a real program to write and test (C, Python, JavaScript, TypeScript).
 - [Clips the Game](https://md5crypt.github.io/clipsgame/) - A demanding logic game based on the clips rule engine.
 - [Code Avengers](https://www.codeavengers.com/) - Learn to build websites, apps and games in a fun and effective way.
 - [Code School](https://www.pluralsight.com/codeschool ) - Learn to code in the comfort of your browser.
